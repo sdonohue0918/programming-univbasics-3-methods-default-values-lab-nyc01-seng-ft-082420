@@ -8,4 +8,4 @@ def meal_choice(opt1, opt2, meat = "tofu")
 end
 
 
-meal_choice("blumpkins", "lard")
+meal_choice("broccoli", "macaroni")
