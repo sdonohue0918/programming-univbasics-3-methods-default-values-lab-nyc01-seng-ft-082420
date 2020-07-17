@@ -6,3 +6,6 @@ def meal_choice(opt1, opt2, protein = "tofu")
   puts "What a nutritious meal!"
   puts "A plate of #{protein} with #{opt1} and #{opt2}."
 end
+
+
+meal_choice("blumpkins", "lard", "Filet Mignon")
