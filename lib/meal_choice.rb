@@ -2,9 +2,9 @@
 # For output purposes, use "puts" instead of "print" or "p"
 
 
-def meal_choice(side1, side2, meat = "tofu")
+def meal_choice(side1, side2, protein = "meat")
   puts "What a nutritious meal!"
-  puts "A plate of #{meat} with #{side1} and #{side2}."
+  puts "A plate of #{protein} with #{side1} and #{side2}."
 end
 
 
